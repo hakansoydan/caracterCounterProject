@@ -1,0 +1,52 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #596fb7;
+}
+
+.container {
+  width: 500px;
+  background: #f1f1f1;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+}
+.container h2{
+   margin-bottom: 10px;
+}
+
+textarea {
+  resize: none;
+  outline: none;
+  border: none;
+  font-size: 18px;
+  height: 150px;
+  padding: 15px;
+  border-radius: 20px;
+  width: 100%;
+  margin-bottom: 15px;
+}
+.counterContainer {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5px;
+ 
+}
+.totalCounter {
+  color: #596fb7;
+  font-weight: bold;
+}
+
+.remainingCounter {
+  color: red;
+  font-weight: bold;
+}
