@@ -15,4 +15,10 @@ Kullanıcı, belirlenen sınırı aşmamak üzere metin girebilir.
 Anlık Güncelleme:
 
 Kullanıcı herhangi bir tuşa bastığında, JavaScript tarafından yapılan dinamik bir güncelleme ile toplam karakter sayısı ve kalan karakter sayısı anlık olarak güncellenir.
-Bu tür bir karakter sayacı, kullanıcıya belirli bir metin sınırı içinde kalmasına yardımcı olabilir. Örneğin, sosyal medya platformları veya form alanları gibi yerlerde kullanıcıların belirli bir metin uzunluğunu aşmamalarını sağlamak amacıyla kullanılabilir.
+Bu tür bir karakter sayacı, kullanıcıya belirli bir metin sınırı içinde kalmasına yardımcı olabilir. Örneğin, sosyal medya platformları veya form alanları gibi yerlerde kullanıcıların belirli bir metin uzunluğunu aşmamalarını sağlamak amacıyla kullanılabilir
+
+
+
+Udemy'den Can Boz Javascript eğitiminden  izlediğim uygulamyı yapmaya çalıştım.. 
+
+##### Siteye Buradan Erişebilirsiniz:  [Character Counter Project](https://charactercounterproject.netlify.app/)
